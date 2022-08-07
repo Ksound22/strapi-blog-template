@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seo_se_oinformations",
+  "info": {
+    "displayName": "SEOinformation",
+    "icon": "cookie"
+  },
+  "options": {},
+  "attributes": {
+    "SEOTitle": {
+      "type": "string"
+    },
+    "SEODescription": {
+      "type": "text"
+    }
+  }
+}
